@@ -1,0 +1,8 @@
+2020-10-22 12:50:52,786 INFO com.rezg.BootApplication [main] Starting BootApplication on rezadmin with PID 10254 (/home/thimothy/Documents/asignment_01/spring-boot-service/bin/main started by thimothy in /home/thimothy/Documents/asignment_01/spring-boot-service)
+2020-10-22 12:50:52,789 DEBUG com.rezg.BootApplication [main] Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-22 12:50:52,789 INFO com.rezg.BootApplication [main] No active profile set, falling back to default profiles: default
+2020-10-22 12:50:57,049 INFO com.rezg.BootApplication [main] Started BootApplication in 5.578 seconds (JVM running for 7.25)
+2020-10-22 12:53:01,229 INFO com.rezg.BootApplication [main] Starting BootApplication on rezadmin with PID 10440 (/home/thimothy/Documents/asignment_01/spring-boot-service/bin/main started by thimothy in /home/thimothy/Documents/asignment_01/spring-boot-service)
+2020-10-22 12:53:01,246 DEBUG com.rezg.BootApplication [main] Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-22 12:53:01,250 INFO com.rezg.BootApplication [main] No active profile set, falling back to default profiles: default
+2020-10-22 12:53:05,707 INFO com.rezg.BootApplication [main] Started BootApplication in 5.403 seconds (JVM running for 7.436)
